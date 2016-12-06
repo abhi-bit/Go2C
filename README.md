@@ -22,5 +22,7 @@ Run the project:
 
 Prerequisites - libuv, rapidjson, jemalloc(could use just system malloc as well)
 
+```
 $ go get -u github.com/abhi-bit/Go2C
 $ make
+```
